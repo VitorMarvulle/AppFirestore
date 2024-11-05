@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "907420849134",
+    "project_id": "appfirestore-4e982",
+    "storage_bucket": "appfirestore-4e982.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907420849134:android:9d68812ef85a855d5974ff",
+        "android_client_info": {
+          "package_name": "br.edu.fatecpg.appfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKDiFYZE0_hjhh7pd1LuLC_oFmHKKGV-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
